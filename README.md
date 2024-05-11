@@ -2,6 +2,9 @@ Project Video Link: https://drive.google.com/file/d/19Mx12ZA6mXlPeJXELZm2xbWw6Ww
 
 ======================= Project Descriptions =======================
 
+![image](https://github.com/jay-228/React-Counter-/assets/122542095/9cd7f57c-ea28-4044-b38c-94cc66b3a2df)
+
+
 Objective:
 
 Build a simple counter application using React and the useState hook. The application should have a counter initialized to 0 and two buttons: one for incrementing the counter value and one for decrementing it.
